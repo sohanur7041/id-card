@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-box{
+    width: 200px;
+    height: 300px;
+    border: 2px solid;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 50px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.name-tital{
+    width: 400;
+    height: 400;
+    background-color: rgb(231, 200, 163);
+    border: 2px solid;
+    text-align: ;
+    border-radius: 30px;
+}
+.circle{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid;
+    margin-top: 10px;
+    overflow: hidden;
+}
